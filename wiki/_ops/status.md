@@ -1,0 +1,59 @@
+# Pipeline Status
+
+Generated: 2026-06-11T04:23:30.121Z
+
+## Vault
+
+
+```json
+{
+  "bootstrapped": true,
+  "enabled": true,
+  "exists": true,
+  "gitlabProjectId": null,
+  "lastPublishedAt": 1781148357271,
+  "lastReleaseByteSize": 72072,
+  "lastReleaseFileCount": 31,
+  "lastReleaseGeneratedAt": 1781148352145,
+  "lastReleaseId": "release-20260611032552145-1aa2e6d3-84af-4419-a610-5e4c97eadedd",
+  "publishUrl": null,
+  "runtimeKind": "github_repo",
+  "sourceGitlabConnectionId": null,
+  "updatedAt": 1781151410661,
+  "vaultId": "rh77dtatqbx1wms3mmd57bgb3d88dkxf",
+  "vaultName": "CF-Wiki",
+  "vaultRepoBranch": "main",
+  "vaultRepoUrl": "CreadorFoundationMY/CF-Wiki"
+}
+```
+
+
+## Documents
+
+| state | count |
+| --- | --- |
+| pending | 0 |
+| synced | 6 |
+| stale | 0 |
+| deleted | 0 |
+| total | 6 |
+
+## Last Successful GitHub Release
+
+| field | value |
+| --- | --- |
+| run | 4632b5a0-c68d-4fc8-b7cb-64d067cd7c06 |
+| release | release-20260611032552145-1aa2e6d3-84af-4419-a610-5e4c97eadedd |
+| store | n/a |
+| completed | 2026-06-11T03:25:57.271Z |
+
+## Recent Errors
+
+| started | phase | source | run | error |
+| --- | --- | --- | --- | --- |
+| 2026-06-10T04:07:52.005Z | ingest | manual | 6a576be7-f394-491c-b5e5-f52f75b7bc0a | GitHub wiki store request failed (403): Resource not accessible by personal access token |
+| 2026-06-10T04:07:35.139Z | ingest | manual | 9aed0a33-c8c3-4289-9843-4681d05f163c | GitHub wiki store request failed (403): Resource not accessible by personal access token |
+| 2026-06-10T02:58:13.663Z | synthesize | n/a | ff5fd30c-19b2-46b6-9194-5116edd08c77 | GitHub wiki store request failed (403): Resource not accessible by personal access token |
+| 2026-06-10T02:57:32.890Z | synthesize | n/a | 0d7c4746-fcbb-4d86-9553-89594bfab5b9 | GitHub wiki store request failed (403): Resource not accessible by personal access token |
+| 2026-06-10T02:57:25.303Z | synthesize | n/a | 7bc69305-a732-4958-97c8-5d22ec4b8a39 | GitHub wiki store request failed (403): Resource not accessible by personal access token |
+| 2026-06-10T02:43:36.524Z | ingest | manual | 986a7caf-0491-46ab-968d-ca3ffdde7f2e | GitHub wiki store request failed (409): Git Repository is empty. |

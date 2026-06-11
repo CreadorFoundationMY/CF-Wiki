@@ -1,0 +1,83 @@
+[
+  {
+    "cadenceMinutes": 30,
+    "configured": false,
+    "enabled": false,
+    "lastIngestStats": null,
+    "lastIngestedAt": null,
+    "nextDueAt": null,
+    "source": "slack"
+  },
+  {
+    "cadenceMinutes": 30,
+    "configured": false,
+    "enabled": false,
+    "lastIngestStats": null,
+    "lastIngestedAt": null,
+    "nextDueAt": null,
+    "source": "linear"
+  },
+  {
+    "cadenceMinutes": 60,
+    "configured": false,
+    "enabled": false,
+    "lastIngestStats": null,
+    "lastIngestedAt": null,
+    "nextDueAt": null,
+    "source": "gmail"
+  },
+  {
+    "cadenceMinutes": 60,
+    "configured": false,
+    "enabled": false,
+    "lastIngestStats": null,
+    "lastIngestedAt": null,
+    "nextDueAt": null,
+    "source": "drive"
+  },
+  {
+    "cadenceMinutes": 60,
+    "configured": false,
+    "enabled": false,
+    "lastIngestStats": null,
+    "lastIngestedAt": null,
+    "nextDueAt": null,
+    "source": "dropbox"
+  },
+  {
+    "cadenceMinutes": 360,
+    "configured": false,
+    "enabled": false,
+    "lastIngestStats": null,
+    "lastIngestedAt": null,
+    "nextDueAt": null,
+    "source": "notion"
+  },
+  {
+    "cadenceMinutes": 360,
+    "configured": false,
+    "enabled": false,
+    "lastIngestStats": null,
+    "lastIngestedAt": null,
+    "nextDueAt": null,
+    "source": "github"
+  },
+  {
+    "cadenceMinutes": 60,
+    "configured": false,
+    "enabled": false,
+    "lastIngestStats": null,
+    "lastIngestedAt": null,
+    "nextDueAt": null,
+    "source": "pocket"
+  },
+  {
+    "cadenceMinutes": 60,
+    "configured": false,
+    "enabled": false,
+    "lastIngestStats": null,
+    "lastIngestedAt": null,
+    "nextDueAt": null,
+    "source": "session_logs"
+  }
+]

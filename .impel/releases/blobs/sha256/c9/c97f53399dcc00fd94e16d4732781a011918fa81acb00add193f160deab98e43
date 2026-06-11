@@ -1,0 +1,15 @@
+# Sources
+
+Generated: 2026-06-11T04:23:30.121Z
+
+| source | enabled | configured | cadence | next due | last ingest | last stats |
+| --- | --- | --- | --- | --- | --- | --- |
+| slack | no | no | 30m | n/a | n/a | null |
+| linear | no | no | 30m | n/a | n/a | null |
+| gmail | no | no | 60m | n/a | n/a | null |
+| drive | no | no | 60m | n/a | n/a | null |
+| dropbox | no | no | 60m | n/a | n/a | null |
+| notion | no | no | 360m | n/a | n/a | null |
+| github | no | no | 360m | n/a | n/a | null |
+| pocket | no | no | 60m | n/a | n/a | null |
+| session_logs | no | no | 60m | n/a | n/a | null |

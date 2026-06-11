@@ -1,0 +1,447 @@
+[
+  {
+    "completedAt": null,
+    "errorMessage": null,
+    "phase": "release",
+    "runId": "62eaec37-a366-408a-89bd-2c60c50c60f1",
+    "source": null,
+    "startedAt": 1781151809846,
+    "stats": null,
+    "status": "running",
+    "triggerRunId": null
+  },
+  {
+    "completedAt": null,
+    "errorMessage": null,
+    "phase": "synthesize",
+    "runId": "ac85849e-8f55-4203-bff5-c331cea8bf95",
+    "source": null,
+    "startedAt": 1781151639096,
+    "stats": null,
+    "status": "running",
+    "triggerRunId": null
+  },
+  {
+    "completedAt": null,
+    "errorMessage": null,
+    "phase": "synthesize",
+    "runId": "e701b0ce-2b62-413d-b8c2-875025219387",
+    "source": null,
+    "startedAt": 1781151570233,
+    "stats": null,
+    "status": "running",
+    "triggerRunId": null
+  },
+  {
+    "completedAt": 1781151806054,
+    "errorMessage": null,
+    "phase": "synthesize",
+    "runId": "cc7fa7b1-e657-4d63-9b79-624076785aab",
+    "source": null,
+    "startedAt": 1781151544843,
+    "stats": {
+      "commitBranch": "main",
+      "commitMessage": "Update Impel synthesized wiki artifacts",
+      "commitRepository": "CreadorFoundationMY/CF-Wiki",
+      "commitSha": "f4d08089870595d19387f24f0bd8592f435269c5",
+      "errors": 0,
+      "processed": 3,
+      "sourcePaths": [
+        "default/1781151527388-v11.pdf",
+        "default/1781151527502-actuary_chatbase.txt",
+        "default/1781151527907-AI Automation Project_Social Media Comment Taxonomy Classifier.pdf"
+      ],
+      "wikiFiles": 12
+    },
+    "status": "succeeded",
+    "triggerRunId": null
+  },
+  {
+    "completedAt": 1781151533887,
+    "errorMessage": null,
+    "phase": "ingest",
+    "runId": "3916bdb8-24a5-4222-832f-8d26820a11fb",
+    "source": "manual",
+    "startedAt": 1781151527947,
+    "stats": {
+      "cursor": {
+        "since": "2026-06-11T04:18:47.947Z",
+        "source": "manual"
+      },
+      "deleted": 0,
+      "durationMs": 5880,
+      "errors": 0,
+      "ingestionHarness": "claude_code",
+      "ingestionHarnesses": [
+        "claude_code"
+      ],
+      "managedSourceFallbacks": 0,
+      "queueSynthesis": true,
+      "rawCommitBranch": "main",
+      "rawCommitRepository": "CreadorFoundationMY/CF-Wiki",
+      "rawCommitSha": "09896c2dab8768160c5a20f65bc806af4dc26507",
+      "scanned": 3,
+      "skipped": 0,
+      "sourceConfigChanged": false,
+      "sourcePaths": [
+        "default/1781151527388-v11.pdf",
+        "default/1781151527502-actuary_chatbase.txt",
+        "default/1781151527907-AI Automation Project_Social Media Comment Taxonomy Classifier.pdf"
+      ],
+      "written": 3
+    },
+    "status": "succeeded",
+    "triggerRunId": null
+  },
+  {
+    "completedAt": 1781148357271,
+    "errorMessage": null,
+    "phase": "release",
+    "runId": "4632b5a0-c68d-4fc8-b7cb-64d067cd7c06",
+    "source": null,
+    "startedAt": 1781148351663,
+    "stats": {
+      "byteSize": 72072,
+      "currentR2Key": "orgs/rn7450p21cxp05rv9enhc5mjnx88ba8z/wiki-releases/current.json",
+      "fileCount": 31,
+      "files": 31,
+      "generatedAt": "2026-06-11T03:25:52.145Z",
+      "releaseId": "release-20260611032552145-1aa2e6d3-84af-4419-a610-5e4c97eadedd",
+      "releaseR2Key": "orgs/rn7450p21cxp05rv9enhc5mjnx88ba8z/wiki-releases/releases/release-20260611032552145-1aa2e6d3-84af-4419-a610-5e4c97eadedd.json",
+      "storeKind": "github"
+    },
+    "status": "succeeded",
+    "triggerRunId": null
+  },
+  {
+    "completedAt": 1781148341787,
+    "errorMessage": null,
+    "phase": "synthesize",
+    "runId": "7fa2680d-93f7-4c37-a211-a076e65b2624",
+    "source": null,
+    "startedAt": 1781148107527,
+    "stats": {
+      "commitBranch": "main",
+      "commitMessage": "Update Impel synthesized wiki artifacts",
+      "commitRepository": "pradneshsanderan/CF-Wiki",
+      "commitSha": "27cf952b51771dbeab217f3a2155283a79c74887",
+      "errors": 0,
+      "processed": 1,
+      "sourcePaths": [
+        "default/1781148074683-user_journeys-Amplitude-prev30days.csv"
+      ],
+      "wikiFiles": 9
+    },
+    "status": "succeeded",
+    "triggerRunId": null
+  },
+  {
+    "completedAt": 1781148095122,
+    "errorMessage": null,
+    "phase": "ingest",
+    "runId": "1beb7bf9-8dcb-42ca-9afe-2251add9b84b",
+    "source": "manual",
+    "startedAt": 1781148074827,
+    "stats": {
+      "contentFingerprint": "sha256:60317b715ce57ab00d2330dca49bc2c99e1c9b2a77a0b6a0d91915687253d0b1",
+      "cursor": {
+        "since": "2026-06-11T03:21:14.827Z",
+        "source": "manual"
+      },
+      "deleted": 0,
+      "durationMs": 20230,
+      "errors": 0,
+      "forceReingest": false,
+      "ingestionHarness": "claude_code",
+      "ingestionHarnesses": [
+        "claude_code"
+      ],
+      "managedSourceFallback": true,
+      "managedSourceFallbacks": 1,
+      "queueSynthesis": true,
+      "rawByteSize": 23209054,
+      "rawCommitBranch": "main",
+      "rawCommitRepository": "pradneshsanderan/CF-Wiki",
+      "rawCommitSha": "8a50cb607381fce04733e13302c41686b87e9f3b",
+      "scanned": 1,
+      "skipped": 0,
+      "sourceConfigChanged": false,
+      "sourcePath": "default/1781148074683-user_journeys-Amplitude-prev30days.csv",
+      "sourcePaths": [
+        "default/1781148074683-user_journeys-Amplitude-prev30days.csv"
+      ],
+      "stagingMode": "managed_source_fallback",
+      "written": 1
+    },
+    "status": "succeeded",
+    "triggerRunId": null
+  },
+  {
+    "completedAt": 1781064823620,
+    "errorMessage": null,
+    "phase": "release",
+    "runId": "a875e669-b6ac-4666-a5db-25d4af25c126",
+    "source": null,
+    "startedAt": 1781064819132,
+    "stats": {
+      "byteSize": 54695,
+      "currentR2Key": "orgs/rn7450p21cxp05rv9enhc5mjnx88ba8z/wiki-releases/current.json",
+      "fileCount": 24,
+      "files": 24,
+      "generatedAt": "2026-06-10T04:13:39.576Z",
+      "releaseId": "release-20260610041339576-97da12f6-cb5c-48ac-9ab3-97a4f3cf3f87",
+      "releaseR2Key": "orgs/rn7450p21cxp05rv9enhc5mjnx88ba8z/wiki-releases/releases/release-20260610041339576-97da12f6-cb5c-48ac-9ab3-97a4f3cf3f87.json",
+      "storeKind": "github"
+    },
+    "status": "succeeded",
+    "triggerRunId": null
+  },
+  {
+    "completedAt": 1781064813734,
+    "errorMessage": null,
+    "phase": "synthesize",
+    "runId": "d7f42334-e617-4992-ae8d-6e542efa5d74",
+    "source": null,
+    "startedAt": 1781064588213,
+    "stats": {
+      "commitBranch": "main",
+      "commitMessage": "Update Impel synthesized wiki artifacts",
+      "commitRepository": "pradneshsanderan/CF-Wiki",
+      "commitSha": "f14f286e54bd83bbd0e869b9a40d947566a863c8",
+      "errors": 0,
+      "processed": 1,
+      "sourcePaths": [
+        "default/1781064570695-v11.pdf"
+      ],
+      "wikiFiles": 11
+    },
+    "status": "succeeded",
+    "triggerRunId": null
+  },
+  {
+    "completedAt": 1781064576536,
+    "errorMessage": null,
+    "phase": "ingest",
+    "runId": "b09de25f-7724-4aaf-a705-0d9470f3def0",
+    "source": "manual",
+    "startedAt": 1781064570731,
+    "stats": {
+      "contentFingerprint": "sha256:61088366bf5a0c21940af013975b048e65a82dc141630ad2e2327258f29a91f8",
+      "cursor": {
+        "since": "2026-06-10T04:09:30.731Z",
+        "source": "manual"
+      },
+      "deleted": 0,
+      "durationMs": 5756,
+      "errors": 0,
+      "forceReingest": false,
+      "ingestionHarness": "claude_code",
+      "ingestionHarnesses": [
+        "claude_code"
+      ],
+      "managedSourceFallback": false,
+      "managedSourceFallbacks": 0,
+      "queueSynthesis": true,
+      "rawByteSize": 171470,
+      "rawCommitBranch": "main",
+      "rawCommitRepository": "pradneshsanderan/CF-Wiki",
+      "rawCommitSha": "3fd9de6422369ed965b5d7fb2f260e4eeb900252",
+      "scanned": 1,
+      "skipped": 0,
+      "sourceConfigChanged": false,
+      "sourcePath": "default/1781064570695-v11.pdf",
+      "sourcePaths": [
+        "default/1781064570695-v11.pdf"
+      ],
+      "stagingMode": "inline",
+      "written": 1
+    },
+    "status": "succeeded",
+    "triggerRunId": null
+  },
+  {
+    "completedAt": 1781064476927,
+    "errorMessage": "GitHub wiki store request failed (403): Resource not accessible by personal access token",
+    "phase": "ingest",
+    "runId": "6a576be7-f394-491c-b5e5-f52f75b7bc0a",
+    "source": "manual",
+    "startedAt": 1781064472005,
+    "stats": {
+      "deleted": 0,
+      "durationMs": 4885,
+      "errors": 1,
+      "managedSourceFallbacks": 0,
+      "scanned": 1,
+      "skipped": 0,
+      "sourceConfigChanged": false,
+      "sourcePaths": [
+        "default/1781064471675-v11.pdf"
+      ],
+      "written": 0
+    },
+    "status": "failed",
+    "triggerRunId": null
+  },
+  {
+    "completedAt": 1781064460369,
+    "errorMessage": "GitHub wiki store request failed (403): Resource not accessible by personal access token",
+    "phase": "ingest",
+    "runId": "9aed0a33-c8c3-4289-9843-4681d05f163c",
+    "source": "manual",
+    "startedAt": 1781064455139,
+    "stats": {
+      "deleted": 0,
+      "durationMs": 5199,
+      "errors": 1,
+      "managedSourceFallbacks": 0,
+      "scanned": 1,
+      "skipped": 0,
+      "sourceConfigChanged": false,
+      "sourcePaths": [
+        "default/1781064455087-v11.pdf"
+      ],
+      "written": 0
+    },
+    "status": "failed",
+    "triggerRunId": null
+  },
+  {
+    "completedAt": 1781060462850,
+    "errorMessage": "GitHub wiki store request failed (403): Resource not accessible by personal access token",
+    "phase": "synthesize",
+    "runId": "ff5fd30c-19b2-46b6-9194-5116edd08c77",
+    "source": null,
+    "startedAt": 1781060293663,
+    "stats": null,
+    "status": "failed",
+    "triggerRunId": null
+  },
+  {
+    "completedAt": 1781060397062,
+    "errorMessage": "GitHub wiki store request failed (403): Resource not accessible by personal access token",
+    "phase": "synthesize",
+    "runId": "0d7c4746-fcbb-4d86-9553-89594bfab5b9",
+    "source": null,
+    "startedAt": 1781060252890,
+    "stats": null,
+    "status": "failed",
+    "triggerRunId": null
+  },
+  {
+    "completedAt": 1781060455140,
+    "errorMessage": "GitHub wiki store request failed (403): Resource not accessible by personal access token",
+    "phase": "synthesize",
+    "runId": "7bc69305-a732-4958-97c8-5d22ec4b8a39",
+    "source": null,
+    "startedAt": 1781060245303,
+    "stats": null,
+    "status": "failed",
+    "triggerRunId": null
+  },
+  {
+    "completedAt": 1781059778154,
+    "errorMessage": null,
+    "phase": "release",
+    "runId": "6718d58d-3580-462e-89c1-23c1f33b8dd4",
+    "source": null,
+    "startedAt": 1781059775033,
+    "stats": {
+      "byteSize": 23562,
+      "currentR2Key": "orgs/rn7450p21cxp05rv9enhc5mjnx88ba8z/wiki-releases/current.json",
+      "fileCount": 16,
+      "files": 16,
+      "generatedAt": "2026-06-10T02:49:35.472Z",
+      "releaseId": "release-20260610024935472-2589a862-d376-474b-8c5b-0975a11e2ec7",
+      "releaseR2Key": "orgs/rn7450p21cxp05rv9enhc5mjnx88ba8z/wiki-releases/releases/release-20260610024935472-2589a862-d376-474b-8c5b-0975a11e2ec7.json",
+      "storeKind": "github"
+    },
+    "status": "succeeded",
+    "triggerRunId": null
+  },
+  {
+    "completedAt": 1781059770103,
+    "errorMessage": null,
+    "phase": "synthesize",
+    "runId": "773c7ecd-a934-44ed-9b3d-cf13c1ca7eb8",
+    "source": null,
+    "startedAt": 1781059639609,
+    "stats": {
+      "commitBranch": "main",
+      "commitMessage": "Update Impel synthesized wiki artifacts",
+      "commitRepository": "pradneshsanderan/CF-Wiki",
+      "commitSha": "d1b056e828d2348f813ea328b0e250fa34cd0348",
+      "errors": 0,
+      "processed": 1,
+      "sourcePaths": [
+        "default/1781059623238-AI Automation Project_Social Media Comment Taxonomy Classifier.pdf"
+      ],
+      "wikiFiles": 7
+    },
+    "status": "succeeded",
+    "triggerRunId": null
+  },
+  {
+    "completedAt": 1781059627251,
+    "errorMessage": null,
+    "phase": "ingest",
+    "runId": "7bc37782-6b70-44a6-83e5-10542e0103ab",
+    "source": "manual",
+    "startedAt": 1781059623301,
+    "stats": {
+      "contentFingerprint": "sha256:630cb9aa8b70d2c368908120c7914845e38ee823ddda94d32a63a9d1d8a1e3a6",
+      "cursor": {
+        "since": "2026-06-10T02:47:03.301Z",
+        "source": "manual"
+      },
+      "deleted": 0,
+      "durationMs": 3903,
+      "errors": 0,
+      "forceReingest": false,
+      "ingestionHarness": "claude_code",
+      "ingestionHarnesses": [
+        "claude_code"
+      ],
+      "managedSourceFallback": false,
+      "managedSourceFallbacks": 0,
+      "queueSynthesis": true,
+      "rawByteSize": 226274,
+      "rawCommitBranch": "main",
+      "rawCommitRepository": "pradneshsanderan/CF-Wiki",
+      "rawCommitSha": "200be8c65a729a7cfa414e691c2ff6996c26f42a",
+      "scanned": 1,
+      "skipped": 0,
+      "sourceConfigChanged": false,
+      "sourcePath": "default/1781059623238-AI Automation Project_Social Media Comment Taxonomy Classifier.pdf",
+      "sourcePaths": [
+        "default/1781059623238-AI Automation Project_Social Media Comment Taxonomy Classifier.pdf"
+      ],
+      "stagingMode": "inline",
+      "written": 1
+    },
+    "status": "succeeded",
+    "triggerRunId": null
+  },
+  {
+    "completedAt": 1781059419432,
+    "errorMessage": "GitHub wiki store request failed (409): Git Repository is empty.",
+    "phase": "ingest",
+    "runId": "986a7caf-0491-46ab-968d-ca3ffdde7f2e",
+    "source": "manual",
+    "startedAt": 1781059416524,
+    "stats": {
+      "deleted": 0,
+      "durationMs": 2895,
+      "errors": 1,
+      "managedSourceFallbacks": 0,
+      "scanned": 1,
+      "skipped": 0,
+      "sourceConfigChanged": true,
+      "sourcePaths": [
+        "default/1781059416434-AI Automation Project_Social Media Comment Taxonomy Classifier.pdf"
+      ],
+      "written": 0
+    },
+    "status": "failed",
+    "triggerRunId": null
+  }
+]
